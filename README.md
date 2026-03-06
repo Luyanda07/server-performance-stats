@@ -1,4 +1,5 @@
 # Server Stats
+https://github.com/Luyanda07/server-performance-stats
 
 A simple command-line tool to view server performance stats at a glance. Available for both Linux and Windows.
 
